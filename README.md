@@ -5,7 +5,7 @@
   <img src="https://github.com/jvataidee/ObjectTrackingYOLOR/blob/main/demo.gif" alt="Demo" width="75%" height="75%">
 </p>
 
-This project is a Streamlit-based object tracking dashboard that utilizes the YOLOR algorithm. It allows you to track objects in a video and provides various settings to customize the tracking process.
+This project was developed based on the practical knowledge gained from the [Augmented Startups](https://www.augmentedstartups.com/)  course. The course provided valuable insights and guidance on implementing advanced object tracking algorithms using deep learning technique. By applying the concepts learned from Augmented Startups, we were able to leverage the YOLOR algorithm and integrate it with the DeepSORT algorithm to create a robust and efficient object tracking system. The course materials and hands-on exercises from Augmented Startups played a significant role in shaping the development of this project, enabling us to deliver a high-quality and cutting-edge tracking solution.
 
 <p align="center">
   <img src="https://github.com/jvataidee/ObjectTrackingYOLOR/blob/main/layout.png" alt="Demo" width="75%" height="75%">
