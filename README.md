@@ -34,7 +34,19 @@ The dashboard performs the following tasks:
 * Shows key performance indicators (KPIs) such as frame rate, tracked objects, and width.
 * Handles exceptions and ensures smooth execution.
 
-Note: The YOLOR algorithm is implemented in the yolor module, which is imported at the beginning of the script.
+# How to Run the Project
+
+1. Clone the repository
+   ```cmd
+       git clone https://github.com/jvataidee/ObjectTrackingYOLOR.git
+2. Install the required dependencies by running the following command:
+   ```cmd
+       pip install -r requirements.txt
+
+4. Download the YOLOR weights and place them in the root folder.
+   Weights link [`yolor_p6.pt`](https://drive.google.com/file/d/1rAgEQ6RV8H0cuUsyhadCn0tqU0u5KKy5)
+5. Download the demo videos and place them in the root folder: [Video Demos](https://drive.google.com/drive/folders/135DHbo0Ww76IjscqIo4r8lk1mUSusxtD)
+
 
 # About YOLOR
 
