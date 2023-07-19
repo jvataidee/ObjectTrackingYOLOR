@@ -36,10 +36,11 @@ The dashboard performs the following tasks:
 
 # How to Run the Project
 
-1. Clone the repository
+1. Install Python version 3.7 or above.
+2. Clone the repository
    ```cmd
        git clone https://github.com/jvataidee/ObjectTrackingYOLOR.git
-2. Install the required dependencies by running the following command:
+3. Install the required dependencies by running the following command:
    ```cmd
        pip install -r requirements.txt
 
