@@ -3,11 +3,6 @@
 
 This project is a Streamlit-based object tracking dashboard that utilizes the YOLOR algorithm. It allows you to track objects in a video and provides various settings to customize the tracking process.
 
-# Usage
-To run the project, follow these steps:
-
-1. Clone the repository:
-
 # Settings
 
 * `Confidence:` Adjust the confidence level for object detection (range: 0.0 to 1.0).
