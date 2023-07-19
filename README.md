@@ -33,7 +33,7 @@ The dashboard performs the following tasks:
 
 Note: The YOLOR algorithm is implemented in the yolor module, which is imported at the beginning of the script.
 
-#About YOLOR:
+# About YOLOR:
 
 YOLOR (You Only Look Once for Object Recognition) is an object detection algorithm based on the YOLO (You Only Look Once) architecture. It is implemented in the yolor library, which is available in this repository: https://github.com/WongKinYiu/yolor.
 
