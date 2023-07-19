@@ -3,8 +3,11 @@
 
 This project is a Streamlit-based object tracking dashboard that utilizes the YOLOR algorithm. It allows you to track objects in a video and provides various settings to customize the tracking process.
 
-# Settings
+<p align="center">
+  <img src="https://github.com/jvataidee/ObjectTrackingYOLOR/blob/main/layout.png" alt="Demo" width="50%" height="50%">
+</p>
 
+# Settings
 * `Confidence:` Adjust the confidence level for object detection (range: 0.0 to 1.0).
 * `Width:` Specify the desired width for the video (minimum: 300, maximum: 2000).
 * `Save Image:` Enable this option to save the processed frames as images.
@@ -13,10 +16,6 @@ This project is a Streamlit-based object tracking dashboard that utilizes the YO
 * `Use Custom Classes:` Enable this option to select custom classes for tracking.
 * `Select The Custom Classes:` Choose the specific custom classes to track (if enabled).
 * `Upload video:` Upload a video file for object tracking.
-
-<p align="center">
-  <img src="https://github.com/jvataidee/ObjectTrackingYOLOR/blob/main/layout.png" alt="Demo" width="50%" height="50%">
-</p>
 
 # Functionality
 The dashboard performs the following tasks:
