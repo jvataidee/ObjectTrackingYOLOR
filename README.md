@@ -22,5 +22,5 @@ To run the project, follow these steps:
 Note: The YOLOR algorithm is implemented in the yolor module, which is imported at the beginning of the script.
 
 <p align="center">
-  <img src="https://github.com/jvataidee/TrakingWithYOLOR/blob/main/layout.png" alt="Demo">
+  <img src="https://github.com/jvataidee/TrakingWithYOLOR/blob/main/layout.png" alt="Demo" width="50%" height="50%">
 </p>
