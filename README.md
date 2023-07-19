@@ -16,7 +16,7 @@ This project was developed based on the practical knowledge gained from the [Aug
 * `Width:` Specify the desired width for the video (minimum: 300, maximum: 2000).
 * `Save Image:` Enable this option to save the processed frames as images.
 * `GPU:` Enable GPU acceleration for faster processing.
-* `Demo Noturna:` Toggle between night and day mode for the demo video.
+* `Night Demo:` Toggle between night and day mode for the demo video.
 * `Use Custom Classes:` Enable this option to select custom classes for tracking.
 * `Select The Custom Classes:` Choose the specific custom classes to track (if enabled).
 * `Upload video:` Upload a video file for object tracking.
