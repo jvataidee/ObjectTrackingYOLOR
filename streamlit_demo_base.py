@@ -66,7 +66,7 @@ def main():
     save_img = st.sidebar.checkbox('Save Image')
     enable_GPU = st.sidebar.checkbox('GPU')
 
-    night_demo = st.sidebar.checkbox('Demo Noturna')
+    night_demo = st.sidebar.checkbox('Night Demo')
 
     if night_demo:
         DEMO_VIDEO = 'video_demos/footage.mov'
