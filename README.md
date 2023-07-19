@@ -38,12 +38,12 @@ YOLOR (You Only Look Once for Object Recognition) is an object detection algorit
 
 YOLOR is renowned for its efficiency and accuracy in object detection in images and videos. It performs detection and tracking in a single step, making it suitable for real-time applications. The algorithm utilizes a convolutional neural network (CNN) to extract features from images and generate bounding boxes with the detected object classes.
 
-@article{wang2021you,
-  title={You Only Learn One Representation: Unified Network for Multiple Tasks},
-  author={Wang, Chien-Yao and Yeh, I-Hau and Liao, Hong-Yuan Mark},
-  journal={arXiv preprint arXiv:2105.04206},
-  year={2021}
-}
+    @article{wang2021you,
+      title={You Only Learn One Representation: Unified Network for Multiple Tasks},
+      author={Wang, Chien-Yao and Yeh, I-Hau and Liao, Hong-Yuan Mark},
+      journal={arXiv preprint arXiv:2105.04206},
+      year={2021}
+    }
 
 # About DeepSORT
 
@@ -51,22 +51,22 @@ DeepSORT is a state-of-the-art deep learning-based algorithm for object tracking
 
 DeepSORT combines the YOLO object detection algorithm with deep appearance feature embeddings and the Hungarian algorithm for data association. It performs multi-object tracking by associating detections across multiple frames, maintaining track identities, and handling occlusions and temporary disappearances.
 
-@inproceedings{Wojke2017simple,
-  title={Simple Online and Realtime Tracking with a Deep Association Metric},
-  author={Wojke, Nicolai and Bewley, Alex and Paulus, Dietrich},
-  booktitle={2017 IEEE International Conference on Image Processing (ICIP)},
-  year={2017},
-  pages={3645--3649},
-  organization={IEEE},
-  doi={10.1109/ICIP.2017.8296962}
-}
-
-@inproceedings{Wojke2018deep,
-  title={Deep Cosine Metric Learning for Person Re-identification},
-  author={Wojke, Nicolai and Bewley, Alex},
-  booktitle={2018 IEEE Winter Conference on Applications of Computer Vision (WACV)},
-  year={2018},
-  pages={748--756},
-  organization={IEEE},
-  doi={10.1109/WACV.2018.00087}
-}
+    @inproceedings{Wojke2017simple,
+      title={Simple Online and Realtime Tracking with a Deep Association Metric},
+      author={Wojke, Nicolai and Bewley, Alex and Paulus, Dietrich},
+      booktitle={2017 IEEE International Conference on Image Processing (ICIP)},
+      year={2017},
+      pages={3645--3649},
+      organization={IEEE},
+      doi={10.1109/ICIP.2017.8296962}
+    }
+    
+    @inproceedings{Wojke2018deep,
+      title={Deep Cosine Metric Learning for Person Re-identification},
+      author={Wojke, Nicolai and Bewley, Alex},
+      booktitle={2018 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+      year={2018},
+      pages={748--756},
+      organization={IEEE},
+      doi={10.1109/WACV.2018.00087}
+    }
