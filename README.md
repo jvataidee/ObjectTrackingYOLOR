@@ -1,6 +1,10 @@
 ![Project Image](capa.png)
 # Object Tracking with YOLOR  by João Ataíde
 
+<p align="center">
+  <img src="https://github.com/jvataidee/ObjectTrackingYOLOR/blob/main/demo.gif" alt="Demo" width="75%" height="75%">
+</p>
+
 This project is a Streamlit-based object tracking dashboard that utilizes the YOLOR algorithm. It allows you to track objects in a video and provides various settings to customize the tracking process.
 
 <p align="center">
