@@ -1,3 +1,4 @@
+![Project Image](capa.png)
 # Object Tracking with YOLOR  by João Ataíde
 
 This repository is dedicated to his practices from the course
