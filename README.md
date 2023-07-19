@@ -37,3 +37,9 @@ Note: The YOLOR algorithm is implemented in the yolor module, which is imported 
 YOLOR (You Only Look Once for Object Recognition) is an object detection algorithm based on the YOLO (You Only Look Once) architecture. It is implemented in the yolor library, which is available in this repository: https://github.com/WongKinYiu/yolor.
 
 YOLOR is renowned for its efficiency and accuracy in object detection in images and videos. It performs detection and tracking in a single step, making it suitable for real-time applications. The algorithm utilizes a convolutional neural network (CNN) to extract features from images and generate bounding boxes with the detected object classes.
+
+# About DeepSORT
+
+DeepSORT is a state-of-the-art deep learning-based algorithm for object tracking. It is implemented in the deep_sort library, which is available in this repository: https://github.com/nwojke/deep_sort.
+
+DeepSORT combines the YOLO object detection algorithm with deep appearance feature embeddings and the Hungarian algorithm for data association. It performs multi-object tracking by associating detections across multiple frames, maintaining track identities, and handling occlusions and temporary disappearances.
