@@ -15,7 +15,7 @@ This project is a Streamlit-based object tracking dashboard that utilizes the YO
 * `Upload video:` Upload a video file for object tracking.
 
 <p align="center">
-  <img src="https://github.com/jvataidee/ObjectTrackingYOLOR/blob/main/layout.pngg" alt="Demo" width="50%" height="50%">
+  <img src="https://github.com/jvataidee/ObjectTrackingYOLOR/blob/main/layout.png" alt="Demo" width="50%" height="50%">
 </p>
 
 # Functionality
