@@ -46,7 +46,7 @@ The dashboard performs the following tasks:
 
 4. Download the YOLOR weights and place them in the root folder.
    Weights link [`yolor_p6.pt`](https://drive.google.com/file/d/1rAgEQ6RV8H0cuUsyhadCn0tqU0u5KKy5)
-5. Download the demo videos and place them in the root folder: [Video Demos](https://drive.google.com/drive/folders/135DHbo0Ww76IjscqIo4r8lk1mUSusxtD)
+5. Download the demo videos and place them in the `video_demos` folder: [Video Demos](https://drive.google.com/drive/folders/135DHbo0Ww76IjscqIo4r8lk1mUSusxtD)
 6. Set the directory:
    ```cmd
       cd ObjectTrackingYOLOR
